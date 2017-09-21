@@ -1,0 +1,23 @@
+{
+  "name": "dynamicroutes",
+  "version": "1.0.0",
+  "description": "Simple project to create route dynamically at runtime",
+  "main": "index.js",
+  "scripts": {
+    "start": "supervisor app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcconsultoria/dynamicroutes.git"
+  },
+  "author": "Daniel Cunha <danielsoro@gmail.com> (soro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcconsultoria/dynamicroutes/issues"
+  },
+  "homepage": "https://github.com/dcconsultoria/dynamicroutes#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "uuid": "^3.1.0"
+  }
+}
